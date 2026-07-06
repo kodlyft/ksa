@@ -36,14 +36,16 @@
   }
  ],
  "links": [],
- "modified": "2021-08-26 04:29:06.499378",
+ "modified": "2026-07-06 13:50:12.582611",
  "modified_by": "Administrator",
  "module": "KSA",
  "name": "KSA VAT Setting",
  "owner": "Administrator",
  "permissions": [],
+ "row_format": "Dynamic",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "states": [],
  "title_field": "company",
  "track_changes": 1
 }

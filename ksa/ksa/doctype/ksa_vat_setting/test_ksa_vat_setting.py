@@ -1,4 +1,4 @@
-# Copyright (c) 2021, Havenir Solutions and Contributors
+# Copyright (c) 2026, Kodlyft and Contributors
 # See license.txt
 
 # import frappe
