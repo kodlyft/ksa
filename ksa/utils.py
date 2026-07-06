@@ -154,7 +154,7 @@ def update_itemised_tax_data(doc):
 	if not doc.taxes:
 		return
 
-	itemised_tax = get_itemised_tax(doc.taxes)
+	itemised_tax = get_itemised_tax(doc)
 
 	for row in doc.items:
 		tax_rate = 0.0
