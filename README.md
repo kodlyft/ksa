@@ -51,11 +51,11 @@ pre-commit install --hook-type commit-msg
 
 Configured hooks:
 
-- **ruff** — Python linting, import sorting, and formatting
-- **prettier** — JS / Vue / SCSS formatting
-- **eslint** — JavaScript linting
-- **Frappe semgrep rules** — vendored static-analysis rules (see [`.semgrep`](.semgrep))
-- **commitlint** — enforces [Conventional Commits](https://www.conventionalcommits.org/)
+- **ruff**: Python linting, import sorting, and formatting
+- **prettier**: JS / Vue / SCSS formatting
+- **eslint**: JavaScript linting
+- **Frappe semgrep rules**: vendored static-analysis rules (see [`.semgrep`](.semgrep))
+- **commitlint**: enforces [Conventional Commits](https://www.conventionalcommits.org/)
 
 ## Continuous Integration
 
