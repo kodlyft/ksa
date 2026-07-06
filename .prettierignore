@@ -1,0 +1,10 @@
+node_modules
+build
+dist
+*.min.js
+*.min.css
+ksa/public/dist
+ksa/templates/includes
+ksa/public/js/lib
+*.svg
+*.md

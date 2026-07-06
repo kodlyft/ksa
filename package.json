@@ -1,0 +1,29 @@
+{
+  "name": "ksa",
+  "version": "0.0.1",
+  "description": "A regional KSA VAT compliance app for Saudi Arabia, built on Frappe",
+  "author": "Kodlyft <hello@kodlyft.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodlyft/ksa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kodlyft/ksa/issues"
+  },
+  "homepage": "https://github.com/kodlyft/ksa#readme",
+  "keywords": [
+    "ksa",
+    "frappe",
+    "erpnext",
+    "vat",
+    "saudi-arabia",
+    "zatca",
+    "tax",
+    "compliance"
+  ],
+  "scripts": {
+    "prepare": "command -v pre-commit > /dev/null 2>&1 && pre-commit install && pre-commit install --hook-type commit-msg || true"
+  }
+}

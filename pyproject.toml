@@ -6,10 +6,18 @@ authors = [
 description = "A regional KSA VAT for Saudi Arabia"
 requires-python = ">=3.14"
 readme = "README.md"
+license = { text = "MIT" }
 dynamic = ["version"]
+keywords = ["frappe", "erpnext", "ksa", "vat", "saudi-arabia", "zatca", "tax", "compliance"]
 dependencies = [
     # "frappe~=16.0.0" # Installed and managed by bench.
 ]
+
+[project.urls]
+Homepage = "https://github.com/kodlyft/ksa"
+Repository = "https://github.com/kodlyft/ksa"
+Issues = "https://github.com/kodlyft/ksa/issues"
+Changelog = "https://github.com/kodlyft/ksa/releases"
 
 [build-system]
 requires = ["flit_core >=3.4,<4"]
